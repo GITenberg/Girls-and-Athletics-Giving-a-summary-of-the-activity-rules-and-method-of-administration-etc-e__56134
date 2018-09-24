@@ -1,5 +1,8 @@
 _repo: Girls-and-Athletics-Giving-a-summary-of-the-activity-rules-and-method-of-administration-etc-e__56134
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56134-h/images/cover.jpg
 creator:
   author:
     agent_name: Spalding, Thomas Alfred
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '48684'
     url: http://www.gutenberg.org/2009/agents/48684
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56134#Girls-and-Athletics-Giving-a-summary-of-the-activity-rules-and-method-of-administration-etc-e_
 gutenberg_issued: '2017-12-06'
 gutenberg_type: Text
 identifiers:
